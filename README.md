@@ -1,8 +1,8 @@
 # MinecraftEmojis
-Minecraft:Bedrock Edition emojis
+Minecraft Bedrock Edition emojis
 
 
-## Come usare
+## Come si usa?
 Copia il carattere Unicode e incollalo su Minecraft: Bedrock Edition chats, cartelli, nomi dei mondi ecc...
 
 ## Come funziona?
